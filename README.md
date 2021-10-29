@@ -1,2 +1,2 @@
-# Project---Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets
-this is my first project in data industry
+# Project-Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets
+This is my first project in data industry
